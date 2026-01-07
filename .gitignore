@@ -1,0 +1,20 @@
+Python cache files
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+Streamlit cache
+.streamlit/
+.cache/
+OS files
+.DS_Store
+Thumbs.db
+Virtual environment
+venv/
+env/
+*.env
+Logs
+*.log
