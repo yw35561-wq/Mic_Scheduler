@@ -19,10 +19,11 @@ This project is developed for CIVIL 6060 - Project III, aiming to optimize the d
 ```bash
 git clone https://github.com/yw35561-wq/Mic_Scheduler.git
 cd Mic_Scheduler
-
+```
 ### 3.2 Install Dependencies
+```bash
 pip install -r requirements.txt
-
+```
 ## 4. Quick Start
 ### 4.1 Run the application:
 
@@ -35,6 +36,7 @@ Upload the filled template to the app
 Initialize the scheduling model and generate optimized schedules
 
 ## 5. Project Structure
+```bash
 mic_scheduler/
 ├── config/          # Core configuration (cost, resource, algorithm parameters)
 ├── core/            # Scheduling engine (ProjectModel, optimization logic)
@@ -44,16 +46,19 @@ mic_scheduler/
 ├── requirements.txt # Python dependencies list
 ├── run.py           # Application entry point (one-click start)
 └── README.md        # Project documentation
-
+```
 ## 6. Technical Stack
-
+```bash
 Frontend/Interaction: Streamlit
 Data Processing: Pandas, NumPy
 Machine Learning: Scikit-learn (K-Means)
 Visualization: Plotly
 File Handling: XlsxWriter, OpenPyXL
+```
+## 7.Documentation
+- **Methodology Notes**: The interpretation used in this model ([methodology.md](methodology.md))
 
-## 7. Academic Use
+## 8. Academic Use
 This project is developed for academic purposes only (CIVIL 6060 - Project III).
 
 
