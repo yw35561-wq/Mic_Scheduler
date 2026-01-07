@@ -17,8 +17,8 @@ This project is developed for CIVIL 6060 - Project III, aiming to optimize the d
 ## 3. Installation
 ### 3.1 Clone the Repository
 ```bash
-git clone https://github.com/yw35561-wq/mic_scheduler.git
-cd mic_scheduler
+git clone https://github.com/yw35561-wq/Mic_Scheduler.git
+cd Mic_Scheduler
 
 ### 3.2 Install Dependencies
 pip install -r requirements.txt
